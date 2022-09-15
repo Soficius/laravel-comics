@@ -60,6 +60,22 @@ header .active a {
   color: #0282f6;
 }
 
+main {
+  background-color: black;
+  min-height: 100px;
+}
+main .box {
+  display: flex;
+  flex-wrap: wrap;
+}
+main .box .card {
+  flex-basis: 16.6666666667%;
+  border: 1em solid transparent;
+}
+main .box .card h3 {
+  color: white;
+}
+
 footer {
   color: white;
 }

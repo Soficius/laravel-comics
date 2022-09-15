@@ -13,9 +13,7 @@
 <body>
     @include('includes.header')
     <main>
-        <h1>
-            ciaoooo mondo
-        </h1>
+        @yield('main-content')
     </main>
     @include('includes.footer')
 </body>
