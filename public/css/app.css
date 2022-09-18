@@ -141,16 +141,26 @@ footer .logo-bg {
 
 .details {
   margin-top: 1em;
-  min-width: 800px;
 }
 
 .d-flex {
   display: flex;
   justify-content: space-between;
-  flex-basis: 50%;
-  flex-grow: 0;
 }
 
-.p-4 {
-  padding-right: 4em;
+.w-75 {
+  width: 75%;
+}
+
+.small-container {
+  padding: 4em 16em;
+}
+
+.wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.w-50 {
+  width: 50%;
 }
