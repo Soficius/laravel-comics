@@ -5,13 +5,13 @@
                  <div class="flex-c-col">
                      <h3>DC Comics</h3>
                      <ul>
-                         <li><a href="#">characters</a></li>
-                         <li><a href="#">comics</a></li>
-                         <li><a href="#">movies</a></li>
-                         <li><a href="#">Tv</a></li>
-                         <li><a href="#">games</a></li>
-                         <li><a href="#">videos</a></li>
-                         <li><a href="#">news</a></li>
+                         <li><a href="#">CHARACTERS</a></li>
+                         <li><a href="#">COMICS</a></li>
+                         <li><a href="#">MOVIES</a></li>
+                         <li><a href="#">TV</a></li>
+                         <li><a href="#">GAMES</a></li>
+                         <li><a href="#">VIDEOS</a></li>
+                         <li><a href="#">NEWS</a></li>
                      </ul>
                      <h3>Shop</h3>
                      <ul>

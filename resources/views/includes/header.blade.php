@@ -4,16 +4,16 @@
      </figure>
      <nav class="navbar">
          <ul>
-             <li> <a href="{{ route('character') }}">character</a></li>
-             <li> <a href="{{ route('comics') }}">comics</a></li>
-             <li> <a href="{{ route('movies') }}">movies</a></li>
-             <li> <a href="{{ route('tv') }}">tv</a></li>
-             <li> <a href="{{ route('games') }}">games</a></li>
-             <li> <a href="{{ route('collectibles') }}">collectibles</a></li>
-             <li> <a href="{{ route('videos') }}">videos</a></li>
-             <li> <a href="{{ route('fans') }}">fans</a></li>
-             <li> <a href="{{ route('news') }}">news</a></li>
-             <li> <a href="{{ route('shop') }}">shop</a></li>
+             <li> <a href="{{ route('character') }}">CHARACTER</a></li>
+             <li> <a href="{{ route('comics') }}">COMICS</a></li>
+             <li> <a href="{{ route('movies') }}">MOVIES</a></li>
+             <li> <a href="{{ route('tv') }}">TV</a></li>
+             <li> <a href="{{ route('games') }}">GAMES</a></li>
+             <li> <a href="{{ route('collectibles') }}">COLLECTIBLES</a></li>
+             <li> <a href="{{ route('videos') }}">VIDEOS</a></li>
+             <li> <a href="{{ route('fans') }}">FANS</a></li>
+             <li> <a href="{{ route('news') }}">NEWS</a></li>
+             <li> <a href="{{ route('shop') }}">SHOP</a></li>
          </ul>
      </nav>
  </header>
